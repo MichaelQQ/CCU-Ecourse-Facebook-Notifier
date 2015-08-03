@@ -1,0 +1,9 @@
+cron:
+#- description: every minuate send notification
+#  url: /task/sendmsg
+#  schedule: every 1 mins
+
+#- description: monday morning mailout
+#   url: /mail/weekly
+#   schedule: every monday 09:00
+#   timezone: Australia/NSW
